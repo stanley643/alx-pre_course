@@ -1,7 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "ALX School is so cool!"
-=======
-echo "ALX School is so cool"
->>>>>>> update_script
+ALX is a great school for software enginners
 
